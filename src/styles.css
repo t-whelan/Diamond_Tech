@@ -8,3 +8,13 @@ img{
 
 }
 
+.col{
+background-image: url(/images/black-tech-background.jpg);
+}
+
+.contact-us{
+    background-color: rgb(97, 95, 95);
+}
+.footer{
+    background-color: grey;
+}
